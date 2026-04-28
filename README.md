@@ -28,6 +28,6 @@ NavSys delivers a fully functional navigation experience, combining real-time GP
 3. A pathfinding algorithm computes the optimal route  
 4. The system continuously updates location and adjusts the route if deviations occur
 
-![](https://www.hunter-baker.com/resources/gifs/projects/navsys.gif)
+![](https://www.hunter-baker.com/assets/projects/navsys/navsys.gif)
 
-![](https://www.hunter-baker.com/resources/images/projects/navsystemdesign.svg)
+![](https://www.hunter-baker.com/assets/projects/navsys/navsystemdesign.svg)
